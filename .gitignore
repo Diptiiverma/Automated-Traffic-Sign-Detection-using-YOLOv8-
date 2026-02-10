@@ -1,0 +1,22 @@
+# YOLO generated outputs
+runs/
+detect/
+predict/
+
+# Dataset
+train/
+test/
+valid/
+datasets/
+
+# Model weights
+*.pt
+
+# Media outputs
+*.avi
+*.mp4
+*.jpg
+*.png
+
+# Colab & system
+.DS_Store
