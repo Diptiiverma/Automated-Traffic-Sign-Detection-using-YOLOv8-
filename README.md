@@ -24,19 +24,15 @@ The system is capable of detecting traffic signs from images and videos, support
 ---
 
 ## 📂 Project Structure
-
 Automated-Traffic-Sign-Detection-using-YOLOv8/
-│
 ├── notebook/
-│   └── Traffic_sign_detection_System.ipynb   
-│
-├── data.yaml                                 
-├── requirements.txt                          
-├── sample_outputs/                           
-│   ├── image_result.jpg
-│   └── video_result.mp4
-│
-└── README.md         
+│ └── Traffic_sign_detection_System.ipynb
+├── data.yaml
+├── requirements.txt
+├── sample_outputs/
+│ ├── image_result.jpg
+│ └── video_result.mp4
+└── README.md       
 
 ---
 
