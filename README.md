@@ -24,6 +24,7 @@ The system is capable of detecting traffic signs from images and videos, support
 ---
 
 ## 📂 Project Structure
+
 Automated-Traffic-Sign-Detection-using-YOLOv8/
 │
 ├── notebook/
